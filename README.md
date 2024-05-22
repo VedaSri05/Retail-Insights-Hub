@@ -40,6 +40,7 @@ Ensure you have the following installed:
 **Data Collection**
 
 - Data is collected from various retail sources, including transactions and customer feedback.
+- Sources are `Retail_Data_Transactions.csv` and `Retail_Data_Response.csv`.
 
 **Data Cleaning**
 
@@ -60,7 +61,7 @@ Ensure you have the following installed:
 
 - Conducted statistical analysis and visualized trends and patterns.
 - Performed time series analysis and predictive modeling.
-- Detailed in `Coding.ipynb`.
+- Uploaded in `MainData.csv`, `AddAnalysis.csv`.
 
 **Excel Analysis**
 
