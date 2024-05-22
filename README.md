@@ -37,12 +37,4 @@ Ensure you have the following installed:
 - Jupyter Notebook
 - Pandas
 - Numpy
-- Matplotlib
-- Seaborn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/RetailDataExplorer.git
-   cd RetailDataExplorer
+- Microsoft Excel
