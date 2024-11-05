@@ -1,6 +1,6 @@
 # Retail-Insights-Hub
 
-RetailDataExplorer is a comprehensive project that analyzes retail transaction and response datasets. This project involves data collection, cleaning, preparation, exploration, and advanced analysis using Jupyter notebooks and Excel. It aims to provide insights into customer behavior, sales trends, and feedback patterns to help businesses make data-driven decisions.
+Retail-Insights-Hub is a comprehensive project that analyzes retail transaction and response datasets. This project involves data collection, cleaning, preparation, exploration, and advanced analysis using Jupyter notebooks and Excel. It aims to provide insights into customer behavior, sales trends, and feedback patterns to help businesses make data-driven decisions.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -12,7 +12,7 @@ RetailDataExplorer is a comprehensive project that analyzes retail transaction a
 
 ## Project Overview
 
-RetailDataExplorer aims to provide insights into customer behavior and sales trends by analyzing retail transaction and customer response datasets. By leveraging data science techniques, this project offers valuable insights to enhance business strategies.
+Retail-Insights-Hub aims to provide insights into customer behavior and sales trends by analyzing retail transaction and customer response datasets. By leveraging data science techniques, this project offers valuable insights to enhance business strategies.
 
 ## Features
 
